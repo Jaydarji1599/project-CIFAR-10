@@ -1,5 +1,5 @@
 # Q1. Summary
-In this course project, I am exploring the CIFAR-10 data set. First I have extracted the data set. Then I have passed the dataset in the CNN pipeline and exploring different parameters of metrics and loss function. I have used different loss functions such as Jaccard, 
+In this project, I am exploring the CIFAR-10 data set. First I have extracted the data set. Then I have passed the dataset in the CNN pipeline and exploring different parameters of metrics and loss function. I have used different loss functions such as Jaccard, 
 dice loss and dice coefficient. as we know that all these functions are for the segmentation for encoders and decoders. I still wanted to use these functions in my CNN model which is fairly deep model. Below shown is the snapshot of the model at epoch 71/72.
 
 Epoch 00071: val_loss improved from 0.48918 to 0.48610, saving model to model.h5
